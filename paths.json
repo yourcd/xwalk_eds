@@ -1,0 +1,8 @@
+{
+  "mappings": [
+    "/content/xwalk-eds/:/"
+  ],
+  "includes": [
+    "/content/ewalk-eds/"
+  ]
+}
