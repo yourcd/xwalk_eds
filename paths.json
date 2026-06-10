@@ -3,6 +3,6 @@
     "/content/xwalk-eds/:/"
   ],
   "includes": [
-    "/content/ewalk-eds/"
+    "/content/xwalk-eds/"
   ]
 }
